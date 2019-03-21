@@ -14,7 +14,9 @@
 
 .vacapkg {
   border: 3px solid black;
-  margin: 5px;
+  margin: auto;
+  width: 93%;
+  text-align: center;
 }
 
 h, h1, h2, h3 {
@@ -28,4 +30,10 @@ h2, .panel-title {
 p, ul {
   font-family: 'Thasadith', sans-serif;
   font-size: 18px;
+}
+
+img {
+  float: right;
+  width: 300px;
+  height: 145px;
 }
