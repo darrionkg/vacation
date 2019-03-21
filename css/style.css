@@ -1,0 +1,31 @@
+.col-md-4 {
+  width: 30%;
+  float: left;
+  padding: 15px;
+  min-height: 200px;
+  position: relative;
+  border: 2px solid #6284bc;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.vacapkg {
+  border: 3px solid black;
+  margin: 5px;
+}
+
+h, h1, h2, h3 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+h2, .panel-title {
+  font-size: 55px;
+}
+
+p, ul {
+  font-family: 'Thasadith', sans-serif;
+  font-size: 18px;
+}
